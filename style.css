@@ -1,0 +1,24 @@
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+h1 {border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 5px;}
+h2 {margin-right: 3%;}
+h2 {margin-left: 3%;}
+h3 {margin-right: 3%;}
+h3 {margin-left: 3%;}
+h2 {font-size: 170%;}
+h3 {font-size: 140%;}
+#Capa1 {margin-left: 2%;}
+#carro10 {margin-left: 16%;}
+#carro9 {margin-left: 16%;}
+#carro8 {margin-left: 16%;}
+#carro7 {margin-left: 16%;}
+#carro6 {margin-left: 16%;}
+#carro5 {margin-left: 16%;}
+#carro4 {margin-left: 16%;}
+#carro3 {margin-left: 16%;}
+#carro2 {margin-left: 16%;}
+#carro1 {margin-left: 16%;}
